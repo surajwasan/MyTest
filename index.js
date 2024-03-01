@@ -3,3 +3,5 @@ console.log("12345");
 console.writ("678910");
 console.log("12345");
 //test suraj 
+//test comment
+console.log('raj');
